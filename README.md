@@ -5,4 +5,6 @@ This project shows how python can be used to calculate a particles size distribu
 
 # Important thing to note on the usage
 
-When running the notebook (particle_size_analysis_literature) which contains the literature. Due to the images embedded in the notebook, it is important that the image files adjoined together with the notebook file be in the same directory for jupyter markdown to run successfully and display the images. 
+- When running the notebook (particle_size_analysis_literature) which contains the literature. Due to the images embedded in the notebook, it is important that the image files adjoined together with the notebook file be in the same directory for jupyter markdown to run successfully and display the images. 
+
+- Some aspects of the notebooks particulary with the notebook on the literature documentation created with markdown might behave differently on other IDEs. But with jupyter lab or jupyter notebook, it should work correctly or it could also work correctly on other IDEs with the appropriate extensions already installed. 
